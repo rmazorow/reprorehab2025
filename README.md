@@ -1,6 +1,6 @@
 # reprorehab2025: Beginner MATLAB/Python Pod
 
-Learners are expected to review the weekly materials and assignments before each pod meeting. Extra assignments and notebooks are optional. This structure is designed to test a flipped-classroom model. A recording of each weekly pod meeting will be shared afterward (see the link provided in that week's README). The answer key for the weekly assignment will be uploaded to the `/submission` folder on Fridays around 5 p.m. PT.
+Learners are expected to review the weekly materials and assignments before each pod meeting. Extra assignments and notebooks are optional. This structure is designed to test a flipped-classroom model. A recording of each weekly pod meeting will be shared afterward (You need to use the account you used to apply for ReproRehab). The answer key for the weekly assignment will be uploaded to the `/submission` folder on Fridays around 5 p.m. PT.
 
 Learners focusing on MATLAB - please visit this [repository](https://github.com/ohspc89/ReproRehab2023_POD1_Playground).
 
@@ -47,37 +47,33 @@ Learners focusing on MATLAB - please visit this [repository](https://github.com/
 
 ---
 
-## Week 5 (previously Week 4) - Plotting with Matplotlib
+## Week 5 (previously Week 4) - Plotting with Matplotlib [(video)](https://drive.google.com/file/d/19n9z2OoCCK46f_QNpyEXU2GsgwCowiDr/view?usp=sharing)
 - Plot types: line, scatter, bar, histogram
 - Labeling axes, titles, legends
 - Customizing style (colors, markers)
 - Saving figures to file
 - *Extra_assignment*: exploring how to work with Seaborn package
 
-ℹ️ Two breakout rooms during the pod meeting: a) Review of materials from Weeks 1-3; b) Discussion of new material
-
 **Outcome**: learners can visualize trends in their dataset
 
 ---
 
-## Week 6 (previously Week 5) - Control Flow & Functions
+## Week 6 (previously Week 5) - Control Flow & Functions [(video)](https://drive.google.com/file/d/1Fpl7ILqZ3gGHXWCpdcuzZz7KFmHd9Oxx/view?usp=sharing)
 - Conditional statements (`if/elif/else`, `match/case`)
 - Loops (`for`, `while`)
 - Defining functions
+- *Extra_notebook*: A demo on reading, manipulating, and visualizing data from a motion capture system.
 
-ℹ️ Two breakout rooms during the pod meeting: a) Review of materials from Week 5; b) Discussion of new material
-  
 **Outcome**: Learners can write reusable code for small tasks.
 
 ---
 
-## Week 7 (previously Week 6) - Error Handling & Debugging
+## Week 7 (previously Week 6) - Error Handling & Debugging [(video)](https://drive.google.com/file/d/1dNibPQRzo9cyMnphv1eDqYLRQibumRwd/view?usp=sharing)
 - Common error types: `ValueError`, `TypeError`, etc.
 - Using `try/except` blocks
 - Debugging in Spyder (breakpoints, variable explorer)
+- *Extra_notebook*: using `pickle` to save your workspace 
 
-ℹ️ Two breakout rooms during the pod meeting: a) Review of materials from Week 6; b) Discussing of new material
-  
 **Outcome**: Learners are less scared of error messages and know how to inspect issues.
 
 ---
@@ -86,5 +82,6 @@ Learners focusing on MATLAB - please visit this [repository](https://github.com/
 - Learners will select their own datasets and apply the skills covered in previous weeks.
 - Each learner will present a short data analysis notebook.
 - Wrap-up: project ideas and learning paths beyond bootcamp
+- *Extra_notebook* creating a `jupyter notebook` and a .pdf version of it
   
 **Outcome**: Learners see direct paths to apply Python in their own work.
